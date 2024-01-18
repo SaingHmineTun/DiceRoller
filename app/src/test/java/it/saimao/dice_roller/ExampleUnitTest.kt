@@ -1,4 +1,4 @@
-package it.saimao.lesson5
+package it.saimao.dice_roller
 
 import org.junit.Test
 

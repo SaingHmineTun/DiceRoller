@@ -1,4 +1,4 @@
-package it.saimao.lesson5.ui.theme
+package it.saimao.dice_roller.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

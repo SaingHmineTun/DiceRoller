@@ -1,4 +1,4 @@
-package it.saimao.lesson5
+package it.saimao.dice_roller
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

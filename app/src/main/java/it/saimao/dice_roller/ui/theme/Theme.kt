@@ -1,4 +1,4 @@
-package it.saimao.lesson5.ui.theme
+package it.saimao.dice_roller.ui.theme
 
 import android.app.Activity
 import android.os.Build

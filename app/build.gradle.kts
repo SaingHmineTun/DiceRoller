@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "it.saimao.lesson5"
+    namespace = "it.saimao.dice_roller"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "it.saimao.lesson5"
+        applicationId = "it.saimao.dice_roller"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
